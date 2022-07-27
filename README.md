@@ -1,4 +1,5 @@
-## Bem-vindo(a) ao perfil de Brendo Giordane
+## Hi, fellas 
+Brendo Giordane em campo
 
  <div>
    <a href="https://github.com/BrendoGio">
